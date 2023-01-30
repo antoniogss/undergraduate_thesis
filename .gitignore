@@ -1,0 +1,15 @@
+# Ignore everything
+
+*
+
+# But not these ...
+
+# files
+
+!main.tex
+!README.md
+!.gitignore
+
+# folders
+
+!/content
