@@ -1,0 +1,46 @@
+% ----------------------------------------------------------------------- 
+% Capa personalizada com o logo institucional e o brasão da República 
+% ----------------------------------------------------------------------- 
+\newpage
+\thispagestyle{empty}
+\newgeometry{left=0cm,right=0cm,top=3cm,bottom=2cm}
+%------------------------------------------------------------------------
+% Cabeçalho
+%------------------------------------------------------------------------
+\begin{center}
+\begin{minipage}{.15\textwidth}  
+\includegraphics[width=\textwidth]{./images/brasao_republica} %Imagem 1
+\end{minipage}%
+\begin{minipage}{.5\textwidth}
+\centering
+\textbf{\MakeUppercase{\imprimirinstituicao}} % Texto
+\end{minipage}%
+\begin{minipage}{.2\textwidth}
+\includegraphics[width=\textwidth]{./images/logo_unifesp} %Imagem 2
+\end{minipage}% 
+\end{center}
+%-------------------------------------------------------------------------
+% Informaçoes do trabalho
+%-------------------------------------------------------------------------
+\vspace{3cm} % Espaçamento cabeçalho/nome do autor
+
+\begin{center}
+
+\large{\MakeUppercase{\imprimirautor}} % Nome do discente
+
+\vspace{5cm} % Espaçamento nome do autor/título
+
+\textbf{\large{\MakeUppercase{\imprimirtitulo}}} % Título com/sem Subtítulo
+
+\vspace{7.5cm} % Espaçamento título/local e data
+
+\large{\MakeUppercase{\imprimirlocal}}\break % Cidade/Estado
+\imprimirdata % Ano
+
+\end{center}
+%-------------------------------------------------------------------------
+
+\restoregeometry
+
+
+

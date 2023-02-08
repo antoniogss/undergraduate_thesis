@@ -1,0 +1,275 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.2)  10 OCT 2022 15:53
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/agss/Documentos/undergrad_thesis_report/content/capa.tex
+(/home/agss/Documentos/undergrad_thesis_report/content/capa.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+
+/home/agss/Documentos/undergrad_thesis_report/content/capa.tex:7: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 7--7
+[] 
+ []
+
+/home/agss/Documentos/undergrad_thesis_report/content/capa.tex:9: Undefined control sequence.
+l.9     \includegraphics
+                        [scale=.15]{/home/agss/Documentos/undergrad_thesis_r...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+/home/agss/Documentos/undergrad_thesis_report/content/capa.tex:9: Missing $ inserted.
+<inserted text> 
+                $
+l.9 ...scale=.15]{/home/agss/Documentos/undergrad_
+                                                  thesis_report/images/brasa...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 9.
+/home/agss/Documentos/undergrad_thesis_report/content/capa.tex:9: Extra }, or forgotten $.
+l.9 ...grad_thesis_report/images/brasao_republica}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/home/agss/Documentos/undergrad_thesis_report/content/capa.tex:10: Missing $ inserted.
+<inserted text> 
+                $
+l.10 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/home/agss/Documentos/undergrad_thesis_report/content/capa.tex:10: Missing } inserted.
+<inserted text> 
+                }
+l.10 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (165.6644pt too wide) in paragraph at lines 9--10
+ []\OML/cmm/m/it/10 hesis[]eport=images=brasao[]epublica[]$ 
+ []
+
+
+Overfull \hbox (65.55658pt too wide) in paragraph at lines 11--11
+ []\OT1/cmr/bx/n/10 Universidade 
+ []
+
+
+Overfull \hbox (21.77072pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 Fed- 
+ []
+
+
+Overfull \hbox (18.79156pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 eral 
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 de 
+ []
+
+
+Overfull \hbox (17.72905pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 S~ao 
+ []
+
+
+Overfull \hbox (28.4651pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/bx/n/10 Paulo 
+ []
+
+
+Overfull \hbox (40.7928pt too wide) in paragraph at lines 12--13
+ []\OT1/cmr/bx/n/10 Campus 
+ []
+
+
+Overfull \hbox (15.84714pt too wide) in paragraph at lines 12--13
+ \OT1/cmr/bx/n/10 Di- 
+ []
+
+
+Overfull \hbox (32.4234pt too wide) in paragraph at lines 12--13
+ \OT1/cmr/bx/n/10 adema 
+ []
+
+/home/agss/Documentos/undergrad_thesis_report/content/capa.tex:14: Undefined control sequence.
+l.14     \includegraphics
+                         [scale=.15]{/home/agss/Documentos/undergrad_thesis_...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+/home/agss/Documentos/undergrad_thesis_report/content/capa.tex:14: Missing $ inserted.
+<inserted text> 
+                $
+l.14 ...cale=.15]{/home/agss/Documentos/undergrad_
+                                                  thesis_report/images/logo_...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/home/agss/Documentos/undergrad_thesis_report/content/capa.tex:14: Extra }, or forgotten $.
+l.14 ...rad_thesis_report/images/logo_unifesp.png}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/home/agss/Documentos/undergrad_thesis_report/content/capa.tex:15: Missing $ inserted.
+<inserted text> 
+                $
+l.15 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/home/agss/Documentos/undergrad_thesis_report/content/capa.tex:15: Missing } inserted.
+<inserted text> 
+                }
+l.15 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (168.07187pt too wide) in paragraph at lines 14--15
+ []$[]\OML/cmm/m/it/10 hesis[]eport=images=logo[]nifesp:png[]$ 
+ []
+
+)
+! Emergency stop.
+<*> ...os/undergrad_thesis_report/content/capa.tex
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 22 strings out of 478287
+ 599 string characters out of 5849290
+ 290007 words of memory out of 5000000
+ 18317 multiletter control sequences out of 15000+600000
+ 469567 words of font info for 29 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,2n,12p,197b,118s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
