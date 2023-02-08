@@ -12,5 +12,4 @@
 
 # folders
 
-!/content
-/content/*
+!content/*/capa/*
